@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://icobay.net/company/about</loc> </url>
+<url> <loc>http://icobay.net/press/publish</loc> </url>
+<url> <loc>http://icobay.net/crowdsale/ico</loc> </url>
+<url> <loc>http://icobay.net/icos/list</loc> </url>
+<url> <loc>http://icobay.net/company/contact</loc> </url>
+<url> <loc>http://icobay.net/company/terms</loc> </url>
+<url> <loc>http://icobay.net/conference/list</loc> </url>
+<url> <loc>http://icobay.net/company/statistics</loc> </url>
+<url> <loc>http://icobay.net/company/network</loc> </url>
+<url> <loc>http://icobay.net/company/faq</loc> </url>
+<url> <loc>http://icobay.net/conference/publish</loc> </url>
+<url> <loc>http://icobay.net/press/list</loc> </url>
+<url> <loc>http://icobay.net/icos/publish</loc> </url>
+<url> <loc>http://icobay.net/company/methodology</loc> </url>
+<url> <loc>http://icobay.net/crypto/crypto</loc> </url>
+<url> <loc>http://icobay.net/</loc> </url>
+</urlset>
